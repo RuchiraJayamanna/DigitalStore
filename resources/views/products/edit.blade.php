@@ -47,7 +47,7 @@
         </div>
 
         <button type="submit" class="btn btn-primary">Update</button>
-        <button type="button" class="btn btn-cancel" onclick="window.location='{{ route('products.index') }}';">Cancel</button>
+        <button type="button" class="btn btn-cancel" onclick="window.location='{{ route('products.index') }}'">Cancel</button>
     </form>
 </div>
 @endsection

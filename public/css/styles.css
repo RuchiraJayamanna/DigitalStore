@@ -1,0 +1,54 @@
+.app_body {
+    background-color: #191D49;
+    color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3rem !important;
+}
+
+.navbar {
+    background-color: #000435 !important;
+}
+
+.nav-link {
+    color: #ffffff !important;
+}
+
+.body_container {
+    width: 1000px;
+}
+
+.dropdown-menu{
+    background-color: #000435 !important;
+}
+
+.dropdown-item:hover{
+    background-color: #000435 !important;
+}
+
+.dropdown-item{
+    color: #ffffff !important;
+}
+
+.card{
+    background-color: #000435;
+}
+
+/*----------------------------Welcome----------------------------*/
+.welcome_body {
+    background-color: #191D49;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.jumbotron {
+    background-color: #000435;
+    padding: 20px;
+    border-radius: 10px;
+    max-width: auto; 
+}
